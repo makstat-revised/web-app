@@ -1,0 +1,264 @@
+{
+    "employeeCount": [
+        {
+            "name": "sector",
+            "subCategories": [
+                {
+                    "name": "agriculture",
+                    "years": [
+                        {
+                            "year": 2010,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 21000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/agriculture/2010/male",
+                                        "year": "/employeeCount/sector/agriculture/2010"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 16000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/agriculture/2010/female",
+                                        "year": "/employeeCount/sector/agriculture/2010"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/sector/agriculture/2010",
+                                "subCategory": "/employeeCount/sector/agriculture"
+                            }
+                        },
+                        {
+                            "year": 2011,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 22000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/agriculture/2011/male",
+                                        "year": "/employeeCount/sector/agriculture/2011"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 15000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/agriculture/2011/female",
+                                        "year": "/employeeCount/sector/agriculture/2011"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/sector/agriculture/2011",
+                                "subCategory": "/employeeCount/sector/agriculture"
+                            }
+                        }
+                    ],
+                    "_links": {
+                        "self": "/employeeCount/sector/agriculture",
+                        "category": "/employeeCount/sector",
+                        "_subCategory": "/categories/sector/subCategories/agriculture"
+                    }
+                },
+                {
+                    "name": "energy",
+                    "years": [
+                        {
+                            "year": 2010,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 31000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/energy/2010/male",
+                                        "year": "/employeeCount/sector/energy/2010"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 26000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/energy/2010/female",
+                                        "year": "/employeeCount/sector/energy/2010"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/sector/energy/2010",
+                                "subCategory": "/employeeCount/sector/energy"
+                            }
+                        },
+                        {
+                            "year": 2011,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 32000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/energy/2011/male",
+                                        "year": "/employeeCount/sector/energy/2011"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 25000,
+                                    "_links": {
+                                        "self": "/employeeCount/sector/energy/2011/female",
+                                        "year": "/employeeCount/sector/energy/2011"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/sector/energy/2011",
+                                "subCategory": "/employeeCount/sector/energy"
+                            }
+                        }
+                    ],
+                    "_links": {
+                        "self": "/employeeCount/sector/energy",
+                        "category": "/employeeCount/sector",
+                        "_subCategory": "/categories/sector/subCategories/energy"
+                    }
+                }
+            ],
+            "_links": {
+                "self": "/employeeCount/sector",
+                "employeeCount": "/employeeCount",
+                "_category": "/categories/sector"
+            }
+        },
+        {
+            "name": "ageGroup",
+            "subCategories": [
+                {
+                    "name": "18-24",
+                    "years": [
+                        {
+                            "year": 2010,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 23000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/18-24/2010/male",
+                                        "year": "/employeeCount/ageGroup/18-24/2010"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 18000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/18-24/2010/female",
+                                        "year": "/employeeCount/ageGroup/18-24/2010"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/ageGroup/18-24/2010",
+                                "subCategory": "/employeeCount/ageGroup/18-24"
+                            }
+                        },
+                        {
+                            "year": 2011,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 24000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/18-24/2011/male",
+                                        "year": "/employeeCount/ageGroup/18-24/2011"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 17000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/18-24/2011/female",
+                                        "year": "/employeeCount/ageGroup/18-24/2011"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/ageGroup/18-24/2011",
+                                "subCategory": "/employeeCount/ageGroup/18-24"
+                            }
+                        }
+                    ],
+                    "_links": {
+                        "self": "/employeeCount/ageGroup/18-24",
+                        "category": "/employeeCount/ageGroup",
+                        "_subCategory": "/categories/ageGroup/subCategories/18-24"
+                    }
+                },
+                {
+                    "name": "25-32",
+                    "years": [
+                        {
+                            "year": 2010,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 29000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/25-32/2010/male",
+                                        "year": "/employeeCount/ageGroup/25-32/2010"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 21000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/25-32/2010/female",
+                                        "year": "/employeeCount/ageGroup/25-32/2010"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/ageGroup/25-32/2010",
+                                "subCategory": "/employeeCount/ageGroup/25-32"
+                            }
+                        },
+                        {
+                            "year": 2011,
+                            "genders": [
+                                {
+                                    "gender": "male",
+                                    "count": 37000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/25-32/2011/male",
+                                        "year": "/employeeCount/ageGroup/25-32/2011"
+                                    }
+                                },
+                                {
+                                    "gender": "female",
+                                    "count": 20000,
+                                    "_links": {
+                                        "self": "/employeeCount/ageGroup/25-32/2011/female",
+                                        "year": "/employeeCount/ageGroup/25-32/2011"
+                                    }
+                                }
+                            ],
+                            "_links": {
+                                "self": "/employeeCount/ageGroup/25-32/2011",
+                                "subCategory": "/employeeCount/ageGroup/25-32"
+                            }
+                        }
+                    ],
+                    "_links": {
+                        "self": "/employeeCount/ageGroup/25-32",
+                        "category": "/employeeCount/ageGroup",
+                        "_subCategory": "/categories/ageGroup/subCategories/25-32"
+                    }
+                }
+            ],
+            "_links": {
+                "self": "/employeeCount/ageGroup",
+                "employeeCount": "/employeeCount",
+                "_category": "/categories/ageGroup"
+            }
+        }
+    ]
+}
